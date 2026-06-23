@@ -159,8 +159,26 @@ Key business analysis performed:
 
 ---
 
+## 🎓 Key Learnings
+
+Through this project, I gained practical exposure to Supply Chain and Inventory Analytics and improved my ability to analyze operational business data using SQL and Power BI.
+
+Key learnings from this project include:
+
+* Understanding Inventory Management concepts such as Stock Quantity, Reorder Level, and Inventory Status.
+* Identifying products that require replenishment through Understock analysis.
+* Evaluating Supplier Performance using average shipping time metrics.
+* Analyzing Warehouse-wise Revenue and Profit contribution.
+* Understanding the relationship between Revenue, Cost, and Profit in business operations.
+* Performing business-focused analysis using SQL aggregation functions such as SUM(), AVG(), COUNT(), and GROUP BY.
+* Designing an interactive Power BI dashboard to track inventory, supplier, warehouse, and delivery performance.
+* Converting analytical findings into actionable business insights and recommendations.
+
+This project strengthened my understanding of Supply Chain Analytics and enhanced my ability to transform raw operational data into meaningful business insights.
+
+---
+
 ### Dashboard Preview
 
 <img width="1000" alt="Supply_Chain_Inventory_Dashboard" src="https://github.com/user-attachments/assets/74ed2e35-4ecb-4214-a812-66cb95d4f03c" />
 
-# Supply_Chain_Inventory_Analysis
